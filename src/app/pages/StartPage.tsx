@@ -213,7 +213,7 @@ export const StartPage: React.FC = () => {
 
       <div className="absolute bottom-2 left-1/2 -translate-x-1/2 z-20 flex flex-col items-center gap-1 w-full p-2">
         <p className="text-[10px] md:text-[8px] text-white opacity-80 text-center">
-          Developed by <a href="https://github.com/itzpa1" target="_blank" rel="noopener noreferrer" className="text-[#FFFF00] hover:underline">code.itzpa1</a>
+          Developed by <a href="https://github.com/2006pritam" target="_blank" rel="noopener noreferrer" className="text-[#FFFF00] hover:underline">2006pritam</a>
         </p>
         <a
           href="https://github.com/itzpa1/modiman"
