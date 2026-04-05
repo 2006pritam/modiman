@@ -216,7 +216,7 @@ export const StartPage: React.FC = () => {
           Developed by <a href="https://github.com/2006pritam" target="_blank" rel="noopener noreferrer" className="text-[#FFFF00] hover:underline">2006pritam</a>
         </p>
         <a
-          href="https://github.com/itzpa1/modiman"
+          href="https://github.com/2006pritam/modiman"
           target="_blank"
           rel="noopener noreferrer"
           className="text-[10px] md:text-[8px] text-[#FFFF00] hover:scale-105 transition-transform flex items-center gap-2 drop-shadow-[0_0_5px_rgba(255,255,0,0.5)]"
